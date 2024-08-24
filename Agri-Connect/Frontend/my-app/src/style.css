@@ -1,0 +1,33 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  padding: 2px;
+  color: black !important;
+  background-color: lightgray !important;
+}
+
+.carousel-inner {
+  position: static;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+.navbar {
+  background-color: black !important;
+  color: white !important;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+.nav-link,
+.navbar-brand {
+  color: white !important;
+}
